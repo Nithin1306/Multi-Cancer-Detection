@@ -1,0 +1,51 @@
+/* Main.css */
+
+.image-container {
+  display:flex;
+  justify-content: flex;
+  max-width: 200%; /* Ensures the container takes up the full width of the parent */
+  overflow: hidden;
+  background-size:200%; /* Prevents the image from overflowing its container */
+}
+
+.main-image {
+  width: 300%; /* Makes the image take up 100% of the container width */
+  margin-top: -100px;
+   /* Maintains the aspect ratio of the image */
+}
+/* Main.css */
+/* Main.css */
+.text-container {
+  margin-top: -500px;
+  font-family: 'Nanum Brush Script', cursive;
+  font-size: 48px; 
+  line-height: 1.5; 
+  padding-left: 90px;
+}
+
+
+
+
+
+.button1{
+  color: black;
+  background-color: black;
+  
+  
+}
+/* Add this to your Main.css or create a new CSS file */
+
+/* Add this to your Main.css or create a new CSS file */
+
+.button-container {
+  margin-top: -30px; /* Add margin for spacing */
+  padding: 5%;
+  margin-left: 200px;
+}
+
+.button1 {
+  display: block; /* Display the buttons as block elements (one below the other) */
+  width: 10%; /* Make buttons take full width */
+  margin-bottom: 10px; /* Add margin between buttons */
+}
+

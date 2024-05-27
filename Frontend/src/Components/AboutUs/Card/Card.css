@@ -1,0 +1,9 @@
+/* Card.css */
+
+.card-container {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-container:hover {
+    transform: scale(1.05); /* Increase the size on hover */
+}

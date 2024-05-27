@@ -1,0 +1,30 @@
+/* Add some styling to the navigation bar */
+.bg-body-tertiary {
+    background-color: #000; /* Set your desired background color */
+    color: #fff; /* Set the text color */
+  }
+  
+  /* Style the brand/logo */
+  .bg-body-tertiary .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Style the navigation links */
+  .bg-body-tertiary .nav-link {
+    color: black; /* Set the text color for links */
+  }
+  
+  /* Style the button */
+  .bg-body-tertiary .btn-primary {
+    background-color: darkorange; /* Set your desired button background color */
+    border-color: darkorange; /* Set the button border color */
+    color: #fff; /* Set the button text color */
+  }
+  
+  /* Hover effect for links */
+  .bg-body-tertiary .nav-link:hover,
+  .bg-body-tertiary .btn-primary:hover {
+    opacity: 0.8;
+  }
+  
